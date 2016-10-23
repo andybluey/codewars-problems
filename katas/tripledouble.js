@@ -10,7 +10,6 @@
 
 // Check the second set of numbers to see whether this number features more than once.
 
-// Could sort the numbers
 
 function tripledouble(num1, num2) {
 
